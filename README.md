@@ -57,9 +57,9 @@ By the end, you'll be ready to:
 #### Week 1
 
 - Ungraded Quiz:
-	- [The Machine Learning Project Lifecycle](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/Q0 - The Machine Learning Project Lifecycle.txt)
+	- [The Machine Learning Project Lifecycle](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/Q0%20-%20The%20Machine%20Learning%20Project%20Lifecycle.txt)
 - Graded Quiz:
-	- [Deployment](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/Q1 - Deployment.txt)
+	- [Deployment](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/Q1%20-%20Deployment.txt)
 
 #### Week 2
 

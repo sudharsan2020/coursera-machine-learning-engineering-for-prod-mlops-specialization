@@ -37,7 +37,7 @@ That’s right! You can establish a baseline using an older system or via a lite
 Correct
 You're right! Humans perform well on unstructured data, like making sense of an image or a sound, but we aren't great at making sense of large amounts of structured data.
 
-4. On a speech recognition problem, say you run the sanity-check test of trying to overfit a single training example. You pick a clearly articulated clip of someone saying “Today’s weather”, and the algorithm fails to fit even this single audio clip, and outputs "______". What should you do?
+4. On a speech recognition problem, say you run the sanity-check test of trying to overfit a single training example. You pick a clearly articulated clip of someone saying "Today’s weather", and the algorithm fails to fit even this single audio clip, and outputs "______". What should you do?
 
 Create a training set of this example repeated 100 times to force the algorithm to learn to fit this example well.
 

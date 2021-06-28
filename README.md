@@ -57,17 +57,22 @@ By the end, you'll be ready to:
 #### Week 1
 
 - Ungraded Quiz:
-	- [The Machine Learning Project Lifecycle](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/Q0%20-%20The%20Machine%20Learning%20Project%20Lifecycle.txt)
+	- [The Machine Learning Project Lifecycle](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/Q1%20-%20The%20Machine%20Learning%20Project%20Lifecycle.txt)
 - Graded Quiz:
-	- [Deployment](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/Q1%20-%20Deployment.txt)
+	- [Deployment](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%201/Q2%20-%20Deployment.txt)
 
 #### Week 2
 
+- Graded Quizzes:
+	- [Selecting and Training a Model](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%202/Q1%20-%20Selecting%20and%20Training%20a%20Model.txt)
+	- [Modeling challenges](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%202/Q2%20-%20Modeling%20challenges.txt)
 - Lab:
 	- [A journey through Data](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%202/C1W2_Ungraded_Lab_Birds_Cats_Dogs.ipynb)
 
 #### Week 3
 
+- Graded Quiz:
+	- [Data Definition and Baseline](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%203/Q1%20-%20Data%20Definition%20and%20Baseline.txt)
 - Lab:
 	- [Data Labeling](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%203/C1W3_Data_Labeling_Ungraded_Lab.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C1%20-%20Introduction%20to%20Machine%20Learning%20in%20Production/Week%203/C1W3_Data_Labeling_Ungraded_Lab.pdf)
 
@@ -85,25 +90,25 @@ By the end, you'll be ready to:
 #### Week 2
 
 - Labs:
-	- [Simple Feature Engineering](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_1_Simple_Feature_Engineering.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_1_Simple_Feature_Engineering.pdf)
-	- [Feature Engineering Pipeline](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_2_Feature_Engineering_Pipeline.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_1_Feature_Engineering_Pipeline.pdf)
-	- [Feature Selection](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_3_Feature_Selection.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_3_Feature_Selection.pdf)
+	- [Simple Feature Engineering](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_1_Simple_Feature_Engineering.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_1_Simple_Feature_Engineering.pdf)
+	- [Feature Engineering Pipeline](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_2_Feature_Engineering_Pipeline.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_1_Feature_Engineering_Pipeline.pdf)
+	- [Feature Selection](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_3_Feature_Selection.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2_W2_Lab_3_Feature_Selection.pdf)
 - Assignment:
-	- [Feature Engineering](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2W2_Assignment.ipynb)	
+	- [Feature Engineering](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%202/C2W2_Assignment.ipynb)	
 
 #### Week 3
 
 - Labs:
-	- [ML Metadata](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%203/C2_W3_Lab_1_MLMetadata.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%203/C2_W3_Lab_1_MLMetadata.pdf)
-	- [Iterative Schema](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%203/C2_W3_Lab_2_IterativeSchema.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%203/C2_W3_Lab_2_IterativeSchema.pdf)
+	- [ML Metadata](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%203/C2_W3_Lab_1_MLMetadata.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%203/C2_W3_Lab_1_MLMetadata.pdf)
+	- [Iterative Schema](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%203/C2_W3_Lab_2_IterativeSchema.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%203/C2_W3_Lab_2_IterativeSchema.pdf)
 - Assignment:
-	- [Data Pipeline Components for Production ML](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%203/C2W3_Assignment.ipynb)	
+	- [Data Pipeline Components for Production ML](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%203/C2W3_Assignment.ipynb)	
 
 #### Week 4
 
 - Labs:
-	- [Feature Engineering with Weather Data](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_1_WeatherData.ipynb)
-	- [Feature Engineering with Accelerometer Data](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_2_Signals.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_2_Signals.pdf)
-	- [Feature Engineering with Images](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_3_Images.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-gan-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_3_Images.pdf)
+	- [Feature Engineering with Weather Data](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_1_WeatherData.ipynb)
+	- [Feature Engineering with Accelerometer Data](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_2_Signals.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_2_Signals.pdf)
+	- [Feature Engineering with Images](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_3_Images.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_3_Images.pdf)
 
 ---

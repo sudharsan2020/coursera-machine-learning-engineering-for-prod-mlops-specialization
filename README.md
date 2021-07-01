@@ -112,3 +112,7 @@ By the end, you'll be ready to:
 	- [Feature Engineering with Images](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_3_Images.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_3_Images.pdf)
 
 ---
+	
+## Disclaimer
+
+I recognize the hard time people spend on building intuition, understanding new concepts and debugging assignments. The solutions uploaded here are **only for reference**. They are meant to unblock you if you get stuck somewhere. Please do not copy any part of the code as-is (the programming assignments are fairly easy if you read the instructions carefully). Similarly, try out the quizzes yourself before you refer to the quiz solutions.

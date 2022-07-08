@@ -111,6 +111,21 @@ By the end, you'll be ready to:
 	- [Feature Engineering with Accelerometer Data](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_2_Signals.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_2_Signals.pdf)
 	- [Feature Engineering with Images](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_3_Images.ipynb), [PDF](https://nbviewer.jupyter.org/github/amanchadha/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C2%20-%20Machine%20Learning%20Data%20Lifecycle%20in%20Production/Week%204/C2_W4_Lab_3_Images.pdf)
 
+
+---
+
+### Course 3: Machine Learning Modeling Pipelines in Production
+
+#### Week 1
+
+- Graded Quiz:
+	- [Hyperparameter Tuning and Neural Architecture Search](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/Q1%20-%20Hyperparameter%20Tuning%20and%20Neural%20Architecture%20Search.txt)
+	- [AutoML](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/Q2%20-%20AutoML.txt)
+- Ungraded Labs:
+	- [Intro to Keras Tuner](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/C3_W1_Lab_1_Keras_Tuner.ipynb)
+	- [Hyperparameter tuning and model training with TFX](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/C3_W1_Lab_2_TFX_Tuner_and_Trainer.ipynb)
+#### Week 2
+
 ---
 	
 ## Disclaimer

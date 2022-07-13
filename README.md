@@ -124,7 +124,84 @@ By the end, you'll be ready to:
 - Ungraded Labs:
 	- [Intro to Keras Tuner](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/C3_W1_Lab_1_Keras_Tuner.ipynb)
 	- [Hyperparameter tuning and model training with TFX](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%201/C3_W1_Lab_2_TFX_Tuner_and_Trainer.ipynb)
+
 #### Week 2
+
+- Graded Quiz
+	- [Dimensionality Reduction](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%202/Q1%20-%20Dimensionality%20Reduction.txt)
+	- [Quantization and Purning](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%202/Q2%20-%20Quantization%20and%20Purning.txt)
+- Ungraded Labs
+	- [Manual Dimensionality](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%202/C3_W2_Lab_1_Manual_Dimensionality.ipynb)
+	- [Algorithmic_Dimensionality](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%202/C3_W2_Lab_2_Algorithmic_Dimensionality.ipynb)
+	- [Quantization and Pruning](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%202/C3_W2_Lab_3_Quantization_and_Pruning.ipynb)
+
+#### Week 3
+- Labs
+	- [Distributed Strategies with TF and Keras](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%203/C3_W3_Lab_1_Distributed_Training.ipynb)
+	- [Knowledge Distillation](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%203/C3_W3_Lab_2_Knowledge_Distillation.ipynb)
+- Quiz
+	- [High-Performance Modeling](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%203/Q1%20-%20High-Performance%20Modeling.txt)
+	- [Knowledge Distillation](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%203/Q2%20-%20Knowledge%20Distillation.txt)
+#### Week 4
+- Labs
+	- [TensorFlow Model Analysis](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/C3_W4_Lab_1_TFMA.ipynb)
+	- [Model Analysis with TFX Evaluator](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/C3_W4_Lab_2_TFX_Evaluator.ipynb)
+	- [Fairness Indicators](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/C3_W4_Lab_3_Fairness_Indicators.ipynb)
+- Quiz
+	- [Model Analysis](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/Q1%20-%20Model%20Analysis.txt)
+	- [Model Analysis and Debugging](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/Q2-%20Model%20Analysis%20and%20Debugging.txt)
+	- [Continuous Evaluation and Monitoring](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%204/Q3%20-%20Continuous%20Evaluation%20and%20Monitoring.txt)
+#### Week 5
+- Labs
+	- [Shapley Values](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%205/C3_W5_Lab_1_Shap_Values.ipynb)
+	- [Permutation Feature Importance](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%205/C3_W5_Lab_2_Permutation_Importance.ipynb)
+
+- Quiz
+	- [Explainable AI](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%205/Q1%20-%20Explainable%20AI.txt)
+	- [Interpretability](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%205/Q2%20-%20Interpretability.txt)
+	- [Understanding Model Predictions](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C3%20-%20Machine%20Learning%20Modeling%20Pipelines%20in%20Production/Week%205/Q3%20-%20Understanding%20Model%20Predictions.txt)
+---
+
+### Course 4:  Welcome to Deploying Machine Learning Models in Production
+
+#### Week 1
+- Labs
+	-[Intro to Docker and installation](https://github.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%201/C4_W1_Lab_1_Docker_Intro.md)
+	-[First look at Tensorflow Serving with Docker](https://github.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%201/C4_W1_Lab_2_TFS_Docker.md)
+	-[Serve a model with TensorFlow Serving](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%201/C4_W1_Lab_2_TF_Serving.ipynb)
+- Quiz
+	-[Introduction to Model Serving](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%201/Q1%20-%20Introduction%20to%20Model%20Serving.txt)
+	-[Introduction to Model Serving Infrastructure](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%201/Q2%20-%20Introduction%20to%20Model%20Serving%20Infrastructure.txt)
+	-[TensorFlow Serving](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%201/Q3%20-%20TensorFlow%20Serving.txt)
+
+#### Week 2
+- Graded Quizes
+	- [Model serving architecture](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/Q1%20-%20Model%20serving%20architecture.txt)
+	- [Scaling Infrastructure](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/Q2%20-%20Scaling%20Infrastructure.txt)
+	- [Online Inference](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/Q3%20-%20Online%20Inference.txt)
+	- [Data Preprocessing](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/Q4%20-%20Data%20Preprocessing.txt)
+	- [Batch inference scenarios](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/Q5%20-%20Batch%20inference%20scenarios.txt)
+	- [Batch Processing with ETL](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/Q6%20-%20Batch%20Processing%20with%20ETL.txt)
+- Ungraded: Lab tasks
+	- [FastAPI Docker](https://github.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/tree/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/C4_W2_Lab_1_FastAPI_Docker)
+	- [Intro to Kubernetes](https://github.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/tree/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/C4_W2_Lab_2_Intro_to_Kubernetes)
+	- [Latency Test Compose](https://github.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/tree/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/C4_W2_Lab_3_Latency_Test_Compose)
+	- [ETL Beam](https://github.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/tree/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%202/C4_W2_Lab_4_ETL_Beam)
+#### Week 3
+- Ungraded: Lab tasks
+	- [Intro to KFP](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%203/C4_W3_Lab_1_Intro_to_KFP/C4_W3_Lab_1_Kubeflow_Pipelines.ipynb)
+	- [TFX Custom Components](https://nbviewer.org/github/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/blob/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%203/C4_W3_Lab_2_TFX_Custom_Components.ipynb)
+	- [TFS Model Versioning](https://github.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/tree/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%203/C4_W3_Lab_3_TFS_Model_Versioning)
+	- [Github Actions](https://github.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/tree/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%203/C4_W3_Lab_4_Github_Actions)
+- Graded Quizes
+	- [ML Experiments Management and Workflow Automation](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%203/Q1%20-%20ML%20Experiments%20Management%20and%20Workflow%20Automation.txt)
+	- [MLOps Methodology.](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%203/Q2%20-%20MLOps%20Methodology.txt)
+	- [Model Management and Deployment Infrastructure](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%203/Q3%20-%20Model%20Management%20and%20Deployment%20Infrastructure.txt)
+#### Week 4
+- Graded Quiz
+	- [Model Monitoring and Logging](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%204/Q1%20-%20Model%20Monitoring%20and%20Logging.txt)
+	- [Model Decay](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%204/Q2%20-%20Model%20Decay.txt)
+	- [GDPR and Privacy](https://raw.githubusercontent.com/saikhu/coursera-machine-learning-engineering-for-prod-mlops-specialization/main/C4%20-%20Welcome%20to%20Deploying%20Machine%20Learning%20Models%20in%20Production/Week%204/Q3%20-%20GDPR%20and%20Privacy.txt)
 
 ---
 	

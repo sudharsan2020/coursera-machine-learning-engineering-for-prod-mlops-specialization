@@ -5,16 +5,10 @@ When evaluating an ML model during training the goal is to improve top-level met
 
 1 / 1 point
 
-> Data Slicing
-
-
-Apache Beam
-
-
-TensorFlow Metric Analysis (TFMA)
-
-
-Streaming metrics
+[x] Data Slicing
+[] Apache Beam
+[] TensorFlow Metric Analysis (TFMA)
+[] Streaming metrics
 
 Correct
 That’s right! Slicing deals with understanding how a model is performing on each subset of data.
@@ -26,15 +20,9 @@ Streaming metrics are approximations to full-pass performance metrics computed o
 1 / 1 point
 /learn/machine-learning-modeling-pipelines-in-production/home/welcome
 slices of data
-
-
-> mini-batches of data
-
-
-the full data set
-
-
-the full validation data set.
+[x] mini-batches of data
+[] the full data set
+[] the full validation data set.
 
 Correct
 That’s right! This is a nice way to approximate the full-pass metrics without incurring a huge computational overhead cost.
@@ -45,16 +33,10 @@ A recent credit card loyalty program offered by a big technology company has bee
 
 1 / 1 point
 
-> Model debugging
-
-
-Model robustness
-
-
-Residual analysis
-
-
-Data slicing
+[x] Model debugging
+[] Model robustness
+[] Residual analysis
+[] Data slicing
 
 Correct
 That’s right! Model debugging tries to improve the transparency of models by highlighting how data is flowing inside and thus can prevent harmful social discrimination.
@@ -68,16 +50,10 @@ What type of analysis can help us detect and prevent these types of scenarios?
 
 1 / 1 point
 
-Adversarial attack
-
-
-Dimensionality reduction
-
-
-> Sensitivity analysis
-
-
-Residual Analysis
+[] Adversarial attack
+[] Dimensionality reduction
+[x] Sensitivity analysis
+[] Residual Analysis
 
 Correct
 That’s right! Sensitivity analysis helps with understanding a model by examining the impact that each feature has on the model’s prediction. In sensitivity analysis we experiment by changing a feature value while holding the other features constant, and observe the model results. 
@@ -88,10 +64,8 @@ A performance-metric gap between two or more groups could be a sign that an ML m
 
 1 / 1 point
 
-Yes
-
-
-> No
+[] Yes
+[x] No
 
 Correct
 That’s right! Systems are highly complex and achieving equality on one, or even all of the provided metrics can’t guarantee fairness. Fairness evaluations should be run throughout the development process and post-launch as well.
@@ -102,10 +76,8 @@ After a model has been deployed, is it usually feasible to perform residual anal
 
 1 / 1 point
 
-Yes
-
-
-> No
+[] Yes
+[x] No
 
 Correct
 That’s right! Once your model is deployed, you may not have a good amount of labeled data and consequently, residual analysis can prove to be a costly exercise as it might include you hiring workers to label your incoming test data.

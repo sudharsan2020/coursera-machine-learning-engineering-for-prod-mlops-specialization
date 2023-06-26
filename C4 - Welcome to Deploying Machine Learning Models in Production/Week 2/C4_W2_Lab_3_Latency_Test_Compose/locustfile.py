@@ -7,21 +7,21 @@ class LoadTest(HttpUser):
 
     @task
     def predict_batch_1(self):
-        request_body = {"batches": [[1.0 for i in range(13)]]}
+        request_body = {"batches": [[1.0 for _ in range(13)]]}
         self.client.post(
             "http://batch-1:80/predict", json=request_body, name="batch-1"
         )
 
     @task
     def predict_batch_32(self):
-        request_body = {"batches": [[1.0 for i in range(13)] for i in range(32)]}
+        request_body = {"batches": [[1.0 for _ in range(13)] for _ in range(32)]}
         self.client.post(
             "http://batch-32:80/predict", json=request_body, name="batch-32"
         )
 
     @task
     def predict_batch_64(self):
-        request_body = {"batches": [[1.0 for i in range(13)] for i in range(64)]}
+        request_body = {"batches": [[1.0 for _ in range(13)] for _ in range(64)]}
         self.client.post(
             "http://batch-64:80/predict", json=request_body, name="batch-64"
         )
